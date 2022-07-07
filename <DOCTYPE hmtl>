@@ -1,0 +1,32 @@
+<!-- Video Url will go here for the page-->
+<!-- https://www.pexels.com/video/aerial-view-of-beautiful-resort-2169880/ -->
+<div class="section">showcase</div>
+<header>
+    <h2 class="logo">Travel</h2>
+    <div class="toggle"></div>
+</header
+<video src="https://traversymedia.com/downloads/videos/explore.mp4" muted loop autoplay></video>
+<div class="overlay"></div>
+<div class="text"></div>
+<h2>Never stop </h2>
+<h3>Exploring</h3>
+<p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, expedita eius. Quis quae fugiat adipisci voluptate harum laboriosam reprehenderit neque voluptatibus est facilis, tempora culpa exercitationem nesciunt recusandae vel reiciendis.</p>
+<a href="#">Explore</a>
+</div>
+<ul class="social">
+    <li><a href="#"</li>
+        <img src="https://i.ibb.co/x7P24fL/facebook.png"></a></li>
+</ul>
+<li><a href="#"><img src="https://i.ibb.co/Wnxq2Nq/twitter.png"></a></li>
+      <li><a href="#"><img src="https://i.ibb.co/ySwtH4B/instagram.png"></a></li>
+    </ul>
+  </section>
+  <div class="menu">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">News</a></li>
+      <li><a href="#">Destination</a></li>
+      <li><a href="#">Blog</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
